@@ -23,7 +23,7 @@ python3 scripts/blog_generator.py --json
 ## Installation
 
 ```bash
-git clone https://github.com/RuneweaverStudios/blog-generator.git
+git clone https://github.com/austindixson/blog-generator.git
 cd blog-generator
 python3 scripts/blog_generator.py --help
 ```
