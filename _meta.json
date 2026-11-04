@@ -4,7 +4,7 @@
   "version": "1.1.0",
   "displayName": "Blog Generator",
   "description": "Analyzes journal entries and chat history to identify high-value topics and automatically generate structured blog posts with problem/solution format. Supports cron scheduling, configurable scoring weights, and JSON output.",
-  "author": "RuneweaverStudios",
+  "author": "austindixson",
   "tags": [
     "blog",
     "content-creation",
